@@ -1,0 +1,13 @@
+D:\MISA-Cukcuk-api\MISA.Core\obj\Debug\net5.0\MISA.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA-Cukcuk-api\MISA.Core\obj\Debug\net5.0\MISA.Core.AssemblyInfoInputs.cache
+D:\MISA-Cukcuk-api\MISA.Core\obj\Debug\net5.0\MISA.Core.AssemblyInfo.cs
+D:\MISA-Cukcuk-api\MISA.Core\obj\Debug\net5.0\MISA.Core.csproj.CoreCompileInputs.cache
+D:\MISA-Cukcuk-api\MISA.Core\bin\Debug\net5.0\MISA.Core.deps.json
+D:\MISA-Cukcuk-api\MISA.Core\bin\Debug\net5.0\MISA.Core.dll
+D:\MISA-Cukcuk-api\MISA.Core\bin\Debug\net5.0\ref\MISA.Core.dll
+D:\MISA-Cukcuk-api\MISA.Core\bin\Debug\net5.0\MISA.Core.pdb
+D:\MISA-Cukcuk-api\MISA.Core\obj\Debug\net5.0\MISA.Core.dll
+D:\MISA-Cukcuk-api\MISA.Core\obj\Debug\net5.0\ref\MISA.Core.dll
+D:\MISA-Cukcuk-api\MISA.Core\obj\Debug\net5.0\MISA.Core.pdb
+D:\MISA-Cukcuk-api\MISA.Core\obj\Debug\net5.0\MISA.Core.Resources.ResourcesVN.resources
+D:\MISA-Cukcuk-api\MISA.Core\obj\Debug\net5.0\MISA.Core.csproj.GenerateResource.cache
